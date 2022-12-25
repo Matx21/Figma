@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap'); 
+.navbar-nav{
+    --bs-nav-link-padding-x: 0;
+    --bs-nav-link-padding-y: 0;
+}
+.btn-color{
+    background: rgba(48, 86, 211, 0.1);
+
+}
+.container{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+
+.btns{
+    display: flex !important;
+    justify-content: flex-end  !important;
+    align-items: center !important ;
+    font-family: 'Inter', sans-serif;
+}
+.navbar-nav{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding-left: 190px;
+    
+}
+.nav-item{
+    padding-right: 50px;
+    color: #151828 !important ;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+}
+.navbar{
+    background-color: #fff !important;
+    position: relative !important;
+    z-index: 1;
+    bottom: 800px;
+}
+.app{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+letter-spacing: 1px;
+color: #3056D3;
+
+}
+.svg1{
+    position:relative !important;
+}
